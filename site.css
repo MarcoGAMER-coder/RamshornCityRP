@@ -1,0 +1,56 @@
+p{
+	font-size: 40px;
+	font-family: Verdana; "Arial Black", "Times New Roman", "Arial", "serif"
+	margin: auto;
+	}
+
+h1{
+	font-size: 26px;
+	font-family: Verdana; "serif"
+	color: white;
+}
+
+h2{
+	font-size: 20px;
+	font-family: Arial Black, "serif"
+	color: white;
+}
+
+a{
+	width: 12PX;
+	margin: auto;
+}
+
+.picture{
+	float: right;
+}
+.button{
+	width: 250px;
+	background-color: #B25C3A;
+	border: none;
+	color: rgb();
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	border-radius: 10px;
+	margin: auto;
+}
+
+.rules{
+	color: white;
+}
+
+.title{
+	color: white;
+}
+
+body{
+	background-image: url("");
+	file:///C:/Users/Marco_oGAMER/Desktop/maxresdefault.jpg
+}
+
+.rulestext{
+	font-family: Arial Black, "serif"
+}
